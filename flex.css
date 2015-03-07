@@ -209,34 +209,54 @@
 
 
 	.flex.mobile-1st {
+		-ms-flex-order: 1;
+		-webkit-order: 1;
 		order:1;
 	}
 	.flex.mobile-2nd {
+		-ms-flex-order: 2;
+		-webkit-order: 2;
 		order: 2;
 	}
 	.flex.mobile-3rd {
+		-ms-flex-order: 3;
+		-webkit-order: 3;
 		order: 3;
 	}
 	.flex.mobile-4th {
+		-ms-flex-order: 4;
+		-webkit-order: 4;
 		order: 4;
 	}
 	.flex.mobile-5th {
+		-ms-flex-order: 5;
+		-webkit-order: 5;
 		order: 5;
 	}
 
 	.flex.mobile--1st {
+		-ms-flex-order: -1;
+		-webkit-order: -1;
 		order: -1;
 	}
 	.flex.mobile--2nd {
+		-ms-flex-order: -2;
+		-webkit-order: -2;
 		order: -2;
 	}
 	.flex.mobile--3rd {
+		-ms-flex-order: -3;
+		-webkit-order: -3;
 		order: -3;
 	}
 	.flex.mobile--4th {
+		-ms-flex-order: -4;
+		-webkit-order: -4;
 		order: -4;
 	}
 	.flex.mobile--5th {
+		-ms-flex-order: -5;
+		-webkit-order: -5;
 		order: 5;
 	}
 
@@ -341,34 +361,54 @@
 
 
 	.flex.tablet-1st {
+		-ms-flex-order: 1;
+		-webkit-order: 1;
 		order:1;
 	}
 	.flex.tablet-2nd {
+		-ms-flex-order: 2;
+		-webkit-order: 2;
 		order: 2;
 	}
 	.flex.tablet-3rd {
+		-ms-flex-order: 3;
+		-webkit-order: 3;
 		order: 3;
 	}
 	.flex.tablet-4th {
+		-ms-flex-order: 4;
+		-webkit-order: 4;
 		order: 4;
 	}
 	.flex.tablet-5th {
+		-ms-flex-order: 5;
+		-webkit-order: 5;
 		order: 5;
 	}
 
 	.flex.tablet--1st {
+		-ms-flex-order: -1;
+		-webkit-order: -1;
 		order: -1;
 	}
 	.flex.tablet--2nd {
+		-ms-flex-order: -2;
+		-webkit-order: -2;
 		order: -2;
 	}
 	.flex.tablet--3rd {
+		-ms-flex-order: -3;
+		-webkit-order: -3;
 		order: -3;
 	}
 	.flex.tablet--4th {
+		-ms-flex-order: -4;
+		-webkit-order: -4;
 		order: -4;
 	}
 	.flex.tablet--5th {
+		-ms-flex-order: -5;
+		-webkit-order: -5;
 		order: 5;
 	}
 
@@ -452,36 +492,55 @@
 		display: none !important;
 	}
 
-
 	.flex.desk-1st {
+		-ms-flex-order: 1;
+		-webkit-order: 1;
 		order:1;
 	}
 	.flex.desk-2nd {
+		-ms-flex-order: 2;
+		-webkit-order: 2;
 		order: 2;
 	}
 	.flex.desk-3rd {
+		-ms-flex-order: 3;
+		-webkit-order: 3;
 		order: 3;
 	}
 	.flex.desk-4th {
+		-ms-flex-order: 4;
+		-webkit-order: 4;
 		order: 4;
 	}
 	.flex.desk-5th {
+		-ms-flex-order: 5;
+		-webkit-order: 5;
 		order: 5;
 	}
 
 	.flex.desk--1st {
+		-ms-flex-order: -1;
+		-webkit-order: -1;
 		order: -1;
 	}
 	.flex.desk--2nd {
+		-ms-flex-order: -2;
+		-webkit-order: -2;
 		order: -2;
 	}
 	.flex.desk--3rd {
+		-ms-flex-order: -3;
+		-webkit-order: -3;
 		order: -3;
 	}
 	.flex.desk--4th {
+		-ms-flex-order: -4;
+		-webkit-order: -4;
 		order: -4;
 	}
 	.flex.desk--5th {
+		-ms-flex-order: -5;
+		-webkit-order: -5;
 		order: 5;
 	}
 
